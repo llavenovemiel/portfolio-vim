@@ -69,7 +69,6 @@ body {
 
 .about:hover,
 .work:hover {
-	/*color: #FF7400;*/
 	color: darkgray;
 }
 
@@ -106,6 +105,7 @@ body {
 	
 .about-page {
 	width: 100%;
+	min-height: 100vh;
 	display: none;
 	/*border: 2px solid #111111;*/
 }

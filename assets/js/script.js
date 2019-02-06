@@ -46,7 +46,7 @@ var Messenger = function(el){
     m.fadeBuffer = false;
     m.messages = [
       'Hello! I am Vim.',
-      'I am a full stack web developer.',
+      'I am a full-stack web developer.',
       'Cheers!'
     ];
     
